@@ -1,4 +1,4 @@
-#My Portfolio Website
+My Portfolio Website
 
 A simple and responsive personal portfolio website built using **HTML** and **CSS**. This project showcases a clean and minimal design with easy navigation between the main pages.
 
